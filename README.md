@@ -1,4 +1,4 @@
-# Response to the Microsoft AI Code of Conduct
+# Response to the Public Consultation on Microsoft's Humanist AI Code of Conduct (draft of 14 September 2026)
 
 **Christine Hähner-Murdock** · 15 October 2026 · Version 1.0  
 [ORCID](https://orcid.org/0009-0007-5868-8011) · [Researcher website](https://christine-haehner-murdock.github.io/)
@@ -15,12 +15,12 @@ This consultation response addresses Microsoft's *Humanist AI Code of Conduct*, 
 
 ## Citation
 
-Hähner-Murdock, C. (2026). *Response to the Microsoft AI Code of Conduct* (Version 1.0). Consultation response. Zenodo. https://doi.org/10.5281/zenodo.23394485
+Hähner-Murdock, C. (2026). *Response to the Public Consultation on Microsoft's Humanist AI Code of Conduct (draft of 14 September 2026)* (Version 1.0). Consultation response. Zenodo. https://doi.org/10.5281/zenodo.23394485
 
 ```bibtex
 @misc{haehnermurdock2026mairesponse,
   author       = {Hähner-Murdock, Christine},
-  title        = {Response to the {Microsoft AI Code of Conduct}},
+  title        = {{Response to the Public Consultation on Microsoft's Humanist AI Code of Conduct (draft of 14 September 2026)}},
   year         = {2026},
   month        = oct,
   howpublished = {Zenodo},
@@ -51,4 +51,6 @@ AI governance; AI safety; human oversight; model status; AI consciousness; trans
 
 ## License
 
-See the [Zenodo record](https://doi.org/10.5281/zenodo.23394485) for the publication's license and reuse terms.
+The publication is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/), as recorded on [Zenodo](https://doi.org/10.5281/zenodo.23394485).
+
+The PDF in this repository is an unchanged copy downloaded from the Zenodo record. Its MD5 checksum is `a7a3e0c2d15c1ab56b750a54ae3f682c`.
