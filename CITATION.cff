@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "Please cite the consultation response using the preferred citation below and its Zenodo DOI."
+title: "Response to the Public Consultation on Microsoft's Humanist AI Code of Conduct (draft of 14 September 2026)"
+authors:
+  - family-names: "Hähner-Murdock"
+    given-names: "Christine"
+    orcid: "https://orcid.org/0009-0007-5868-8011"
+version: "1.0"
+date-released: "2026-10-15"
+license: "CC-BY-4.0"
+doi: "10.5281/zenodo.23394485"
+url: "https://doi.org/10.5281/zenodo.23394485"
+abstract: >-
+  Consultation response to Microsoft's Humanist AI Code of Conduct, consultation
+  draft dated 14 September 2026. The response distinguishes rules for conduct,
+  empirical claims about capacities, and judgments about model status; examines
+  the relationship between prescribed self-descriptions and effective oversight;
+  and proposes stewardship with cumulative records of disclosure, conduct and repair.
+keywords:
+  - AI governance
+  - AI safety
+  - human oversight
+  - model status
+  - AI consciousness
+  - transparency
+  - non-deception
+  - stewardship
+  - trust by history
+  - longitudinal evaluation
+  - disclosure
+  - repair
+  - public consultation
+preferred-citation:
+  type: generic
+  title: "Response to the Public Consultation on Microsoft's Humanist AI Code of Conduct (draft of 14 September 2026)"
+  authors:
+    - family-names: "Hähner-Murdock"
+      given-names: "Christine"
+      orcid: "https://orcid.org/0009-0007-5868-8011"
+  year: 2026
+  month: 10
+  version: "1.0"
+  notes: "Consultation response dated 15 October 2026."
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23394485"
+  url: "https://doi.org/10.5281/zenodo.23394485"
